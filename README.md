@@ -9,6 +9,9 @@ http://www.exist-db.org/exist/apps/demo/index.html  eXistdb demo examples
 
 http://kitwallace.co.uk/Book/   evaluation of alternative approaches to common task
 
+https://github.com/CliffordAnderson/XQuery4Humanists  Clifford andersons XQuery for Humanists
+
+
 https://github.com/joewiz/learn-xquery  Joes list of Learning resources
 
 
