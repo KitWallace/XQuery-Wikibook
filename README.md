@@ -3,6 +3,8 @@ Issues and examples for the XQuery Wikibook
 
 https://en.wikibooks.org/wiki/XQuery
 
+see also https://en.wikibooks.org/wiki/Talk:XQuery
+
 # Other XQuery learning resources
 
 http://www.exist-db.org/exist/apps/demo/index.html  eXistdb demo examples
